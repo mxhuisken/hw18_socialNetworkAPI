@@ -14,7 +14,7 @@ Building an API for a social network web application where users can share their
 
 ## Preview 📸
 
-![Visual]()
+![Visual](./assets/socialAPI.gif)
 
 ## Installation 🔐
 
@@ -31,4 +31,4 @@ Created for a social media startup that wants an API that uses a NoSQL database 
 
 **[GitHub Link ✨](https://github.com/mxhuisken/hw18_socialNetworkAPI)**
 
-**[Demo ✨](X)**
+**[Demo ✨](https://youtu.be/ioZCK1yxcVM)**
